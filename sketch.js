@@ -9,7 +9,6 @@ function setup(){
 
 
 function draw(){
-    //https://youtu.be/x1rJJRVTpAI
     background(255,255,255);
     line(200,0,200,200);
     var y = 100 + 5 * Math.sin(PI/15 * j)
